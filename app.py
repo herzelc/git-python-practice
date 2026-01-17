@@ -5,7 +5,6 @@ def greet(name):
 
     return f"Shalom!!, {name}! The current time is {current_time}."
 
->>>>>>> feature/add-time
 
 if __name__ == "__main__":
     user = "World"

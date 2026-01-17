@@ -10,7 +10,6 @@ def greet(name):
     return f"Hello, {name}! The current time is {current_time}."
 >>>>>>> parent of 0b8c81e (Update Hello to Shalom on main)
 
->>>>>>> feature/add-time
 
 if __name__ == "__main__":
     user = "World"

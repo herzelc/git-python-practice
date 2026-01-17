@@ -1,5 +1,4 @@
 import datetime
-# only 1 message!!!
 
 def greet(name):
     current_time = datetime.datetime.now().strftime("%H:%M:%S")

@@ -1,5 +1,5 @@
 import datetime
-# Cleanup test
+
 def greet(name):
     current_time = datetime.datetime.now().strftime("%H:%M:%S")
 <<<<<<< HEAD
